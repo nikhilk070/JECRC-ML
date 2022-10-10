@@ -1,0 +1,26 @@
+loop:
+-------------------------------------
+1.for loop
+2.while loop
+
+
+for i in[1,2,3,4,5]:
+     print(i)
+----------------------------------
+FUNCTION:
+-------------------------
+1.noi/p no o/p
+2. no i/p but o/p
+3.i/p nut no o/p
+4. o/p and i/p
+-------------------------
+1.taking multiple input 
+2.returning multiple o/p
+3.keyword argument
+4.default values
+5.*args
+6.**kwargs
+-------------------------
+#module--it is a .py file;Ex-OS,Math,
+packages--it is a collection of modules,__init__.py
+libraries--it is a collection of packages

@@ -1,0 +1,48 @@
+#rules of variables
+1. can't start with number
+ex. 1='python', a1='python'
+    not correct    correct
+
+2. no space
+ex. a 1
+
+3. can't use special character
+a$ = 'hello'; a_1=3;
+
+4. can't use keywords
+ex.  for=2.2 
+# is use to comment
+
+-----------------------------------
+
+# python opertor
+    * 7 types *
+1. arithmatic                     +,-,*,/,**(power),%
+2. comparison/relational          >,<,>=,<=,!=,==
+3. assignment                     +,+=,-=,*=,/=,//=
+4. bitwise                        &,|,^
+5. logical                        and,or,not
+6. identity                       is,is not
+7. membership                     in,not in
+ --------------------------------------------------------
+() --function,expression,tuple
+[] --list,indexing,slicing
+{} --set,dictionary,
+<> --no use
+---------------------------------------------------
+# Data types in python
+1.numeric--int--a=5
+           float--b=5.5
+           complex--3+5j
+2.string--str---a='hello'/"hello"/'''hi'''
+          
+3.list----list---my_list=['abc',5,3.3,2+3j]  {heterogenous data type}
+
+4. tuple--- tuple(45,4.5,'hi',2+6j)   {also heterogenous, but cannot be ammended later once declared. Tuple is also faster than list}
+
+5. set--- {1,2,3,4,5,6,7,8,9,0}
+
+6. dictionary--- dict{key:value}     [eg: dict{40:marks}]
+
+7. boolean--- true, false 
+------------------------------------------------------------
